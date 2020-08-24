@@ -1,6 +1,6 @@
 # rhf-ts-demo
 
-Demo of a component which simplifies usage of 'react-hook-form`'s `Controller` component with custom inputs.
+Demo of a component which simplifies usage of `react-hook-form`'s `Controller` component with custom inputs.
 
 ## Idea
 
